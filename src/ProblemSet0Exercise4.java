@@ -9,14 +9,19 @@ public class ProblemSet0Exercise4 {
 
         while(!num.equals("q")){
 
+            for(int j=1;j<num.length();j++)
+            {
+                if(!Character.isDigit(j))
+                {
+                number = Integer.parseInt(num);
+                i++;
 
+                totalNum +=number;
+                }
+                else
+                num = JOptionPane.showInputDialog("Please enter a prositive or negative number");
+            }
 
-
-            number = Integer.parseInt(num);
-
-            i++;
-
-            totalNum +=number;
             num = JOptionPane.showInputDialog("Please enter a number");
 
         }
