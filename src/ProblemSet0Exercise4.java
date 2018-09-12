@@ -10,13 +10,14 @@ public class ProblemSet0Exercise4 {
         while(!num.equals("q")){
 
 
-            num = JOptionPane.showInputDialog("Please enter a number");
+
 
             number = Integer.parseInt(num);
 
             i++;
 
             totalNum +=number;
+            num = JOptionPane.showInputDialog("Please enter a number");
 
         }
 
