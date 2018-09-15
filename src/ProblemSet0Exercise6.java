@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class ProblemSet0Exercise5 {
+public class ProblemSet0Exercise6 {
     public static void main(String[] args) {
 
 
@@ -8,7 +8,7 @@ public class ProblemSet0Exercise5 {
 
          float fNumber = getFNumber();
          float sNumber = getSecNumber();
-         double sum = getSum(fNumber,sNumber);
+         int sum = getSum();
 
 
 
@@ -36,24 +36,24 @@ public class ProblemSet0Exercise5 {
         return secondNum;
 
     }
-    public static double getSum(float f,float s)
+    public static int getSum()
     {
         String sumAsString;
 
         sumAsString = JOptionPane.showInputDialog("Please enter the sum you wish to make(a,s,m,d");
 
 
-        double result = 0;
+        int result;
         char sum = sumAsString.charAt(0);
 
         switch (sum){
-            case 'a': result = f + s;
+            case 'a': result = +;
                 break;
-            case 's':  result = f - s;
+            case 's':  result = -;
                 break;
-            case 'm': result = f * s;
+            case 'm': result = *;
                 break;
-            case 'd': result = f / s;
+            case 'd': result = /;
                 break;
             default:
                 JOptionPane.showMessageDialog(null,"Invalid! not a valid sum");
