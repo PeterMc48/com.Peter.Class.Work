@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9f98bf7-a99f-4c79-b812-602d74086b71" name="Default Changelist" comment="update 12/9/18">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSet0Exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com.Peter.Class.Work/ProblemSet0Exercise4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.Peter.Class.Work/ProblemSet0Exercise4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/com.Peter.Class.Work/ProblemSet0Exercise5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.Peter.Class.Work/ProblemSet0Exercise5.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ProblemSet0Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSet0Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemSet0Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSet0Exercise6.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,9 +22,9 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -37,13 +39,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1686" />
+          <entry key="java" value="1980" />
           <entry key="txt" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1686" />
+          <entry key="JAVA" value="1980" />
           <entry key="PLAIN_TEXT" value="25" />
         </counts>
       </usages-collector>
@@ -120,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ProblemSet0Exercise5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="651">
+              <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -129,10 +131,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ProblemSet0Exercise6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+            <state relative-caret-position="289">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
-                <element signature="method#getFNumber#0;class#ProblemSet0Exercise6#0" />
                 <element signature="method#getSecNumber#0;class#ProblemSet0Exercise6#0" />
               </folding>
             </state>
@@ -167,7 +168,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -177,7 +178,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,14 +200,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537023673134" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537272117096" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -272,9 +273,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ProblemSet0Exercise6" />
+        <item itemvalue="Application.ProblemSet0Exercise3" />
         <item itemvalue="Application.ProblemSet0Exercise5" />
         <item itemvalue="Application.ProblemSet0Exercise4" />
-        <item itemvalue="Application.ProblemSet0Exercise3" />
         <item itemvalue="Application.ProblemSet0Exercise2" />
       </list>
     </recent_temporary>
@@ -292,6 +293,7 @@
       <workItem from="1536739481942" duration="6175000" />
       <workItem from="1536757171284" duration="1380000" />
       <workItem from="1536838246790" duration="1179000" />
+      <workItem from="1537270426536" duration="2101000" />
     </task>
     <task id="LOCAL-00001" summary="update 12/9/18">
       <created>1536745253526</created>
@@ -304,13 +306,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8734000" />
+    <option name="totallyTimeSpent" value="10835000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17943107" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08901919" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -320,7 +322,7 @@
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.33077765" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.33044422" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39980638" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -328,7 +330,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32858709" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32858709" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -365,13 +367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemSet0Exercise3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ProblemSet0Exercise4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -381,17 +376,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ProblemSet0Exercise5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="651">
+          <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemSet0Exercise3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ProblemSet0Exercise6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
-            <element signature="method#getFNumber#0;class#ProblemSet0Exercise6#0" />
             <element signature="method#getSecNumber#0;class#ProblemSet0Exercise6#0" />
           </folding>
         </state>
@@ -402,7 +403,7 @@
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.8 (1)</last-edited>
+          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

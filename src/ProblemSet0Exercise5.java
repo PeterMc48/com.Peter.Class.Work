@@ -56,7 +56,7 @@ public class ProblemSet0Exercise5 {
             case 'd': result = f / s;
                 break;
             default:
-                JOptionPane.showMessageDialog(null,"Invalid! not a valid sum");
+                 JOptionPane.showMessageDialog(null,"Invalid! not a valid sum");
         }
 
 
